@@ -1,0 +1,19 @@
+{
+    "name": "spryker-feature/merchant-contract-requests",
+    "description": "Merchant B2B Contract Requests [feature]",
+    "type": "metapackage",
+    "license": "proprietary",
+    "minimum-stability": "dev",
+    "prefer-stable": true,
+    "require": {
+        "php": ">=8.0"
+    },
+    "extra": {
+        "branch-alias": {
+            "dev-master": "202403.x-dev"
+        }
+    },
+    "suggest": {
+        "spryker-feature/merchant": "Recommended feature dependency."
+    }
+}
