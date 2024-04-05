@@ -1,6 +1,6 @@
 # Spryker Feature: Merchant B2B Contract Requests
 
-In B2B, partnerships are usually based on contracts, or relations, between buyers and merchants. This feature allows the management of merchant relation requests and enables buyers to initiate relation requests towards the merchants.
+In B2B, partnerships are usually based on contracts, or relations, between buyers and merchants. This feature allows the management of merchant relation requests in the Back Office and enables buyers to initiate relation requests towards the merchants.
 
 ## Installation
 
