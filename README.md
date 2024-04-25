@@ -2,6 +2,8 @@
 
 In B2B, partnerships are usually based on contracts, or relations, between buyers and merchants. This feature allows the management of merchant relation requests in the Back Office and enables buyers to initiate relation requests in Storefront towards the merchants.
 
+[Learn more](https://docs.spryker.com/docs/pbc/all/merchant-management/202404.0/base-shop/merchant-b2b-contracts-feature-overview.html)
+
 ## Installation
 
 ```
