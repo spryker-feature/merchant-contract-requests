@@ -7,7 +7,7 @@
     "prefer-stable": true,
     "require": {
         "php": ">=8.2",
-        "spryker-shop/merchant-relation-request-page": "^1.1.0",
+        "spryker-shop/merchant-relation-request-page": "^1.2.0",
         "spryker-shop/merchant-relation-request-widget": "^1.0.0",
         "spryker/merchant-relation-request": "^1.0.0",
         "spryker/merchant-relation-request-gui": "^1.0.0"
