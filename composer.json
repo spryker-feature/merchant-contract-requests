@@ -9,12 +9,12 @@
         "php": ">=8.2",
         "spryker-shop/merchant-relation-request-page": "^1.2.0",
         "spryker-shop/merchant-relation-request-widget": "^1.0.0",
-        "spryker/merchant-relation-request": "^1.0.0",
+        "spryker/merchant-relation-request": "^1.1.0",
         "spryker/merchant-relation-request-gui": "^2.0.0"
     },
     "extra": {
         "branch-alias": {
-            "dev-master": "202510.x-dev"
+            "dev-master": "202512.x-dev"
         }
     },
     "suggest": {
